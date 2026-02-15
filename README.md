@@ -33,4 +33,5 @@ Hybrid Cloud-Edge architecture:
 Designed for village → district → state-level deployment with AWS cloud scalability.
 
 Team AIkya
+
 AI for Bharat Hackathon 
